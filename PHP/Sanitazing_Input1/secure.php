@@ -14,7 +14,7 @@
         <div class="content">
             <h1>Secure CODE</h1><hr>
             <p>HI It's From PHP, How are you?</p>
-            <form action="vuln.php" method="get">
+            <form action="secure.php" method="get">
                 <input type="text" name="text"><input type="submit">
             </form>
             <?php 
@@ -25,7 +25,7 @@
             else {
                 echo "<hr><br>Your Answer: $TEXT";
                 echo "<br>Glad to hear that";
-                echo "<br><br><strong><a href='vuln.php' style='color: white;'>Back to home</a></strong>";
+                echo "<br><br><strong><a href='secure.php' style='color: white;'>Back to home</a></strong>";
             }
             ?>
         </div>
