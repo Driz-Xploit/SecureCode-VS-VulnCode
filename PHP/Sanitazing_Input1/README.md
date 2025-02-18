@@ -16,7 +16,7 @@ Set up for Apache (Debian Or Ubuntu):
    wget https://raw.githubusercontent.com/Driz-Xploit/SecureCode-VS-VulnCode/refs/heads/main/PHP/Sanitazing_Input1/secure.php
    wget https://raw.githubusercontent.com/Driz-Xploit/SecureCode-VS-VulnCode/refs/heads/main/PHP/Sanitazing_Input1/vuln.php
    sudo mv secure.php vuln.php /var/www/html
-   sudo service httpd start # change 'service' with 'systemctl' if it doesn't work
+   sudo service httpd start # change 'service httpd start' with 'systemctl start httpd' if it doesn't work
    echo "vuln: http://$(hostname -I | awk '{print $1}')/vuln.php"
    echo "secure: http://$(hostname -I | awk '{print $1}')/secure.php"
 ```
