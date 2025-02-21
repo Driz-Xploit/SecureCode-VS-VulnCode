@@ -1,5 +1,7 @@
 [Driz-Xploit Blog](https://drizxploit.blogspot.com/2025/02/vuln-code-vs-secure-code-php-1.html): Blog Version (Indonesian).
 
+Vulnerability topic/target: XSS (especially reflected, not stored)
+
 Set up for Apache (Debian Or Ubuntu):
    ```bash
    wget https://raw.githubusercontent.com/Driz-Xploit/SecureCode-VS-VulnCode/refs/heads/main/PHP/Sanitazing_Input1/secure.php
