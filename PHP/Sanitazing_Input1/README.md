@@ -11,7 +11,7 @@ Set up for Apache (Debian Or Ubuntu):
 ```
 
 
-Set up for Apache (Debian Or Ubuntu):
+Set up for Apache (RedHat):
    ```bash
    wget https://raw.githubusercontent.com/Driz-Xploit/SecureCode-VS-VulnCode/refs/heads/main/PHP/Sanitazing_Input1/secure.php
    wget https://raw.githubusercontent.com/Driz-Xploit/SecureCode-VS-VulnCode/refs/heads/main/PHP/Sanitazing_Input1/vuln.php
