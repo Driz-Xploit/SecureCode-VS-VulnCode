@@ -1,8 +1,6 @@
 # SecureCode-VS-VulnCode
 Secure code VS Vulnerability code
 
-# Secure Code VS Vulnerable Code
-
 ## Overview
 This repository aims to provide a comparative analysis between secure code and vulnerable code. By understanding the differences and identifying common security pitfalls, developers can learn best practices to write safer and more secure applications.
 
